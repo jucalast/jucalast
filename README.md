@@ -1,7 +1,5 @@
 ![Animação de Digitação](media/Cabeçalho.gif)
 
-### Tecnologias e Ícones
-
 [![HTML](https://img.shields.io/badge/-HTML-333333?style=for-the-badge&logo=html5)](#)
 [![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3)](#)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)](#)
