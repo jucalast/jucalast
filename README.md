@@ -1,5 +1,7 @@
 ![Animação de Digitação](media/Cabeçalho.gif)
 
+### Tecnologias e Ícones
+
 [![HTML](https://img.shields.io/badge/-HTML-333333?style=for-the-badge&logo=html5&logoColor=white)](#)
 [![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript&logoColor=white)](#)
@@ -18,3 +20,4 @@
 [![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](#)
 [![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git&logoColor=white)](#)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](#)
+
