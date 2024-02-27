@@ -1,2 +1,2 @@
-![Animação de Digitação](media/Cabeçalho.gif)
+![Animação de Digitação](media/Cabeçalho (1).gif)
 
