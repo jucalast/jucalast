@@ -1,5 +1,8 @@
 ![Animação de Digitação](media/Cabeçalho.gif)
 
+<<<<<<< HEAD
+<span style="color: blue;">Texto azul</span>
+=======
 ### Linguagens de Programação
 
 | Linguagem       | Descrição                              |
@@ -11,3 +14,5 @@
 | C++             | Linguagem de programação de propósito geral |
 | Ruby            | Linguagem de programação dinâmica      |
 | SQL             | Linguagem de consulta estruturada para bancos de dados |
+
+>>>>>>> d84907107fb4929d50b24490f86a3a8a476ac899
