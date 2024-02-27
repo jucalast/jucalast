@@ -11,3 +11,10 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-Follow%20me-181717?style=for-the-badge&logo=github)](https://github.com/seuusuario)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow%20me-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/seuusuario)
+
+
+[![Botão Primário](https://img.shields.io/badge/Visitar-Botão%20Primário-1abc9c?style=for-the-badge)](link_para_qualquer_lugar)
+[![Botão Secundário](https://img.shields.io/badge/Acessar-Botão%20Secundário-3498db?style=for-the-badge)](link_para_outro_lugar)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Follow%20me-181717?style=for-the-badge&logo=github)](https://github.com/seuusuario)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow%20me-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/seuusuario)
