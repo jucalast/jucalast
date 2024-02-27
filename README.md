@@ -1,4 +1,4 @@
 ### Olá! Eu sou [seu nome] 👋
 
-![Animação de Digitação](Cabeçalho.gif)
+![Animação de Digitação](media/Cabeçalho.gif)
 
