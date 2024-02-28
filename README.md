@@ -1,6 +1,3 @@
-![Animação de Digitação](media/Cabeçalho.gif)
-
-
 
 <a href="media/1.png"><img src="media/1.png" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="media/2.png"><img src="media/2.png" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
