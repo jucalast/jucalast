@@ -2,4 +2,4 @@
 
 # Seja bem vindo ao meu perfil! estou estudando programação então aqui você encontrará alguns projetos no qual estou trabalhando :)
 
-<a href="media/coffee.png"><img src="media/coffee.png" width="100" /></a>
+<a href="media/coffee.png"><img src="media/coffee.png" width="125" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="media/code.png"><img src="media/code.png" width="125" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="media/music.png"><img src="media/music.png" width="125" /></a>
