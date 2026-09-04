@@ -10,7 +10,7 @@
 
 <br/><br/>
 
-<a href="https://linkedin.com/in/jucalast">
+<a href="https://www.linkedin.com/in/jo%C3%A3o-luccas-3517041b2/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>&nbsp;
 <a href="https://github.com/jucalast">
