@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=200&section=header&text=Jo√£o%20Luccas&fontSize=42&fontColor=e6edf3&fontAlignY=35&animation=fadeIn&desc=Full%20Stack%20Developer&descSize=18&descColor=8b949e&descAlignY=55" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=200&section=header&text=Jo%C3%A3o%20Luccas&fontSize=42&fontColor=e6edf3&fontAlignY=35&animation=fadeIn&desc=Full%20Stack%20Developer&descSize=18&descColor=8b949e&descAlignY=55" />
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
@@ -10,15 +10,12 @@
 
 <br/>
 
-<!-- SOCIAL BADGES -->
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/jucalast)
 [![GitHub](https://img.shields.io/badge/-GitHub-0d1117?style=for-the-badge&logo=github&logoColor=e6edf3)](https://github.com/jucalast)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=e6edf3)](https://jucalast.github.io)
 [![Email](https://img.shields.io/badge/-Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:joaoluccas@email.com)
 
 </div>
-
-<br/>
 
 ---
 
@@ -33,48 +30,28 @@ hobbies:
   - Desenvolvimento Web
   - Automa√ß√£o
   - Open Source
-```
-
-<br/>
-
-## Tech Stack
+``Fcâ!ÄTecN Stack
 
 <div align="center">
 
-#### Linguagens
-
 <img src="https://skillicons.dev/icons?i=python,typescript,javascript,html,css&theme=dark" alt="Languages" />
 
-#### Frameworks & Bibliotecas
-
 <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nodejs&theme=dark" alt="Frameworks" />
-
-#### Ferramentas & Outros
 
 <img src="https://skillicons.dev/icons?i=git,docker,vscode,githubactions&theme=dark" alt="Tools" />
 
 </div>
 
-<br/>
-
 ## GitHub Analytics
 
 <div align="center">
 
-<!-- STREAK STATS - funciona sem PAT -->
 <a href="https://git.io/streak-stats">
   <img src="https://streak-stats.demolab.com/?user=jucalast&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=e6edf3&sideLabels=8b949e&currStreakNum=e6edf3&sideNums=8b949e&dates=8b949e" alt="GitHub Streak" />
 </a>
 
 <br/><br/>
 
-<!-- TROPHIES - funciona sem PAT -->
-<img src="https://github-profile-trophy.vercel.app/?username=jucalast&theme=darkhub&no-frame=true&no-bg=true&column=6&margin-w=10" alt="Trophies" width="80%" />
-
-<br/><br/>
-
-<!-- STATS & LANGS - gerados via GitHub Action -->
-<!-- Esses cards so aparecem depois de configurar a Action abaixo -->
 <img src="https://raw.githubusercontent.com/jucalast/jucalast/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile Details" width="95%" />
 
 <br/>
@@ -91,8 +68,6 @@ hobbies:
 
 </div>
 
-<br/>
-
 ## Projetos em Destaque
 
 <div align="center">
@@ -108,8 +83,6 @@ hobbies:
 
 </div>
 
-<br/>
-
 ## Snake Animation
 
 <div align="center">
@@ -120,24 +93,7 @@ hobbies:
   </picture>
 </div>
 
-<br/>
-
-## Spotify
-
-<div align="center">
-  <a href="https://open.spotify.com/user/SEU_USER_SPOTIFY">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=SEU_USER_ID&cover_image=true&theme=natemoo-re&show_offline=true&background_color=0d1117&interchange=true&bar_color=58a6ff&bar_color_cover=false" alt="Spotify" />
-  </a>
-</div>
-
-> **Nota:** Substitua `SEU_USER_ID` pelo seu ID do Spotify.
-> Configure em [spotify-github-profile.kittinanx.com](https://spotify-github-profile.kittinanx.com).
-
-<br/>
-
 ---
-
-## Contato
 
 <div align="center">
 
@@ -147,7 +103,7 @@ hobbies:
 &nbsp;
 [![Discord](https://img.shields.io/badge/-Discord-0d1117?style=for-the-badge&logo=discord&logoColor=5865F2&labelColor=0d1117)](https://discord.com/users/SEU_ID)
 
-<br/><br/>
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=jucalast&style=for-the-badge&color=0d1117&label=PROFILE+VIEWS&labelColor=161b22" alt="Profile Views" />
 
@@ -155,76 +111,4 @@ hobbies:
 
 <br/>
 
-<!-- FOOTER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=footer" />
-
----
-
-<details>
-<summary>Como configurar as GitHub Actions</summary>
-
-<br/>
-
-### 1. Profile Summary Cards (Stats & Languages)
-
-Crie `.github/workflows/profile-summary.yml` no repositorio `jucalast/jucalast`:
-
-```yaml
-name: GitHub Profile Summary Cards
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      - uses: vn7n24fzkq/github-profile-summary-cards@release
-        with:
-          USERNAME: jucalast
-          BRANCH_NAME: main
-          THEME: github_dark
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-### 2. Snake Animation
-
-Crie `.github/workflows/snake.yml`:
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: jucalast
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-### 3. Permissoes
-
-Va em **Settings > Actions > General** e habilite **Read and write permissions**.
-Execute ambos os workflows manualmente na aba **Actions**.
-
-</details>
