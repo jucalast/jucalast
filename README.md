@@ -21,87 +21,92 @@
 <br/>
 
 <!-- DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" /></p>
 
-<br/>
-
-## 🧑‍💻 &nbsp;Sobre Mim
+## About Me
 
 ```yaml
 nome: João Luccas
-localização: Brasil 🇧🇷
+localização: Brasil
 foco_atual: Full Stack Development
 aprendendo: IA & Machine Learning
 hobbies:
   - Desenvolvimento Web
   - Automação
   - Open Source
-curiosidade: "Café ☕ é o compilador dos meus projetos"
+curiosidade: "Café é o compilador dos meus projetos"
 ```
 
 <br/>
 
-## 🛠️ &nbsp;Tech Stack
+## Tech Stack
 
 <div align="center">
 
 #### Linguagens
-![Python](https://img.shields.io/badge/-Python-0d1117?style=flat-square&logo=python&logoColor=3776AB)
-![TypeScript](https://img.shields.io/badge/-TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6)
-![JavaScript](https://img.shields.io/badge/-JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/-HTML5-0d1117?style=flat-square&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/-CSS3-0d1117?style=flat-square&logo=css3&logoColor=1572B6)
+
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,html,css&theme=dark" alt="Languages" />
 
 #### Frameworks & Bibliotecas
-![React](https://img.shields.io/badge/-React-0d1117?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/-Next.js-0d1117?style=flat-square&logo=next.js&logoColor=e6edf3)
-![Vue.js](https://img.shields.io/badge/-Vue.js-0d1117?style=flat-square&logo=vue.js&logoColor=4FC08D)
-![Node.js](https://img.shields.io/badge/-Node.js-0d1117?style=flat-square&logo=node.js&logoColor=339933)
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,nodejs&theme=dark" alt="Frameworks" />
 
 #### Ferramentas & Outros
-![Git](https://img.shields.io/badge/-Git-0d1117?style=flat-square&logo=git&logoColor=F05032)
-![Docker](https://img.shields.io/badge/-Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED)
-![VS Code](https://img.shields.io/badge/-VS%20Code-0d1117?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-0d1117?style=flat-square&logo=github-actions&logoColor=2088FF)
+
+<img src="https://skillicons.dev/icons?i=git,docker,vscode,githubactions&theme=dark" alt="Tools" />
 
 </div>
 
 <br/>
 
-## 📊 &nbsp;GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
   <a href="https://github.com/jucalast">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=jucalast&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e6edf3&icon_color=8b949e&text_color=8b949e&ring_color=58a6ff&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=jucalast&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e6edf3&icon_color=8b949e&text_color=8b949e&ring_color=58a6ff&include_all_commits=true&count_private=true" />
+      <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jucalast&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+    </picture>
     &nbsp;&nbsp;
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jucalast&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e&langs_count=8" alt="Top Languages"/>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jucalast&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e&langs_count=8" />
+      <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jucalast&layout=compact&hide_border=true&langs_count=8" alt="Top Languages"/>
+    </picture>
   </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jucalast&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=e6edf3&sideLabels=8b949e&currStreakNum=e6edf3&sideNums=8b949e&dates=8b949e" alt="GitHub Streak" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=jucalast&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=e6edf3&sideLabels=8b949e&currStreakNum=e6edf3&sideNums=8b949e&dates=8b949e" alt="GitHub Streak" />
+  </a>
 </div>
 
 <br/>
 
 <!-- ACTIVITY GRAPH -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jucalast&bg_color=0d1117&color=8b949e&line=58a6ff&point=e6edf3&area=true&area_color=161b22&hide_border=true&custom_title=Contribui%C3%A7%C3%B5es" alt="Activity Graph" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jucalast&bg_color=0d1117&color=8b949e&line=58a6ff&point=e6edf3&area=true&area_color=161b22&hide_border=true&custom_title=Contribuicoes" alt="Activity Graph" width="95%"/>
 </div>
 
 <br/>
 
-## 🚀 &nbsp;Projetos em Destaque
+## Projetos em Destaque
 
 <div align="center">
   <a href="https://github.com/jucalast/target">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jucalast&repo=target&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e6edf3&icon_color=8b949e&description_lines=2" alt="Target" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=jucalast&repo=target&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e6edf3&icon_color=8b949e" />
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=jucalast&repo=target&hide_border=true" alt="Target" />
+    </picture>
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/jucalast/Voxel">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jucalast&repo=Voxel&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e6edf3&icon_color=8b949e&description_lines=2" alt="Voxel" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=jucalast&repo=Voxel&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e6edf3&icon_color=8b949e" />
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=jucalast&repo=Voxel&hide_border=true" alt="Voxel" />
+    </picture>
   </a>
 </div>
 
@@ -109,17 +114,23 @@ curiosidade: "Café ☕ é o compilador dos meus projetos"
 
 <div align="center">
   <a href="https://github.com/jucalast/learnai">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jucalast&repo=learnai&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e6edf3&icon_color=8b949e&description_lines=2" alt="LearnAI" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=jucalast&repo=learnai&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e6edf3&icon_color=8b949e" />
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=jucalast&repo=learnai&hide_border=true" alt="LearnAI" />
+    </picture>
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/jucalast/smtp-microservice">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jucalast&repo=smtp-microservice&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e6edf3&icon_color=8b949e&description_lines=2" alt="SMTP Microservice" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=jucalast&repo=smtp-microservice&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e6edf3&icon_color=8b949e" />
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=jucalast&repo=smtp-microservice&hide_border=true" alt="SMTP Microservice" />
+    </picture>
   </a>
 </div>
 
 <br/>
 
-## 🐍 &nbsp;Snake Animation
+## Snake Animation
 
 <div align="center">
   <picture>
@@ -129,12 +140,12 @@ curiosidade: "Café ☕ é o compilador dos meus projetos"
   </picture>
 </div>
 
-> 💡 **Nota:** Para ativar a Snake Animation, crie uma GitHub Action no repositório `jucalast/jucalast`.  
-> Veja as instruções na seção [Como configurar a Snake](#-como-configurar-a-snake-animation) abaixo.
+> **Nota:** Para ativar a Snake Animation, crie uma GitHub Action no repositorio `jucalast/jucalast`.
+> Veja as instrucoes na secao [Como configurar a Snake](#-como-configurar-a-snake-animation) abaixo.
 
 <br/>
 
-## 🎵 &nbsp;Spotify
+## Spotify
 
 <div align="center">
   <a href="https://open.spotify.com/user/SEU_USER_SPOTIFY">
@@ -142,21 +153,19 @@ curiosidade: "Café ☕ é o compilador dos meus projetos"
   </a>
 </div>
 
-> 💡 **Nota:** Substitua `SEU_USER_ID` pelo seu ID do Spotify.  
+> **Nota:** Substitua `SEU_USER_ID` pelo seu ID do Spotify.
 > Configure em [spotify-github-profile.kittinanx.com](https://spotify-github-profile.kittinanx.com).
 
 <br/>
 
 <!-- DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" /></p>
 
-<br/>
-
-## 📬 &nbsp;Contato
+## Contato
 
 <div align="center">
 
-Se quiser trocar uma ideia, colaborar em algum projeto ou apenas dar um alô:
+Se quiser trocar uma ideia, colaborar em algum projeto ou apenas dar um alo:
 
 <br/><br/>
 
@@ -184,18 +193,18 @@ Se quiser trocar uma ideia, colaborar em algum projeto ou apenas dar um alô:
 ---
 
 <details>
-<summary>🐍 Como configurar a Snake Animation</summary>
+<summary>Como configurar a Snake Animation</summary>
 
 <br/>
 
-1. No repositório `jucalast/jucalast`, crie o arquivo `.github/workflows/snake.yml`:
+1. No repositorio `jucalast/jucalast`, crie o arquivo `.github/workflows/snake.yml`:
 
 ```yaml
 name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # Roda a cada 12 horas
+    - cron: "0 */12 * * *"
   workflow_dispatch:
 
 jobs:
@@ -217,7 +226,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
 
-2. Vá em **Settings > Actions > General** e habilite **Read and write permissions**.
+2. Va em **Settings > Actions > General** e habilite **Read and write permissions**.
 3. Execute o workflow manualmente na aba **Actions**.
 
 </details>
