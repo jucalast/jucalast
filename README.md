@@ -20,8 +20,7 @@
 
 <br/>
 
-<!-- DIVIDER -->
-<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" /></p>
+---
 
 ## About Me
 
@@ -34,7 +33,6 @@ hobbies:
   - Desenvolvimento Web
   - Automação
   - Open Source
-curiosidade: "Café é o compilador dos meus projetos"
 ```
 
 <br/>
@@ -62,32 +60,35 @@ curiosidade: "Café é o compilador dos meus projetos"
 ## GitHub Analytics
 
 <div align="center">
-  <a href="https://github.com/jucalast">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=jucalast&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e6edf3&icon_color=8b949e&text_color=8b949e&ring_color=58a6ff&include_all_commits=true&count_private=true" />
-      <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jucalast&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-    </picture>
-    &nbsp;&nbsp;
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jucalast&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e&langs_count=8" />
-      <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jucalast&layout=compact&hide_border=true&langs_count=8" alt="Top Languages"/>
-    </picture>
-  </a>
-</div>
+
+<!-- STREAK STATS - funciona sem PAT -->
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com/?user=jucalast&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=e6edf3&sideLabels=8b949e&currStreakNum=e6edf3&sideNums=8b949e&dates=8b949e" alt="GitHub Streak" />
+</a>
+
+<br/><br/>
+
+<!-- TROPHIES - funciona sem PAT -->
+<img src="https://github-profile-trophy.vercel.app/?username=jucalast&theme=darkhub&no-frame=true&no-bg=true&column=6&margin-w=10" alt="Trophies" width="80%" />
+
+<br/><br/>
+
+<!-- STATS & LANGS - gerados via GitHub Action -->
+<!-- Esses cards so aparecem depois de configurar a Action abaixo -->
+<img src="https://raw.githubusercontent.com/jucalast/jucalast/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile Details" width="95%" />
 
 <br/>
 
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=jucalast&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=e6edf3&sideLabels=8b949e&currStreakNum=e6edf3&sideNums=8b949e&dates=8b949e" alt="GitHub Streak" />
-  </a>
-</div>
+<img src="https://raw.githubusercontent.com/jucalast/jucalast/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repos per Language" width="47%" />
+&nbsp;
+<img src="https://raw.githubusercontent.com/jucalast/jucalast/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most Commit Language" width="47%" />
 
 <br/>
 
-<!-- ACTIVITY GRAPH -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jucalast&bg_color=0d1117&color=8b949e&line=58a6ff&point=e6edf3&area=true&area_color=161b22&hide_border=true&custom_title=Contribuicoes" alt="Activity Graph" width="95%"/>
+<img src="https://raw.githubusercontent.com/jucalast/jucalast/main/profile-summary-card-output/github_dark/3-stats.svg" alt="Stats" width="47%" />
+&nbsp;
+<img src="https://raw.githubusercontent.com/jucalast/jucalast/main/profile-summary-card-output/github_dark/4-productive-time.svg" alt="Productive Time" width="47%" />
+
 </div>
 
 <br/>
@@ -95,37 +96,16 @@ curiosidade: "Café é o compilador dos meus projetos"
 ## Projetos em Destaque
 
 <div align="center">
-  <a href="https://github.com/jucalast/target">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=jucalast&repo=target&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e6edf3&icon_color=8b949e" />
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=jucalast&repo=target&hide_border=true" alt="Target" />
-    </picture>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/jucalast/Voxel">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=jucalast&repo=Voxel&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e6edf3&icon_color=8b949e" />
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=jucalast&repo=Voxel&hide_border=true" alt="Voxel" />
-    </picture>
-  </a>
-</div>
 
-<br/>
+| Projeto | Stack | Descricao |
+|:--------|:------|:----------|
+| [**Target**](https://github.com/jucalast/target) | ![Python](https://img.shields.io/badge/-Python-0d1117?style=flat-square&logo=python&logoColor=3776AB) | Sistema de gerenciamento de publico alvo |
+| [**Voxel**](https://github.com/jucalast/Voxel) | ![JavaScript](https://img.shields.io/badge/-JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E) | Engine de renderizacao voxel |
+| [**LearnAI**](https://github.com/jucalast/learnai) | ![TypeScript](https://img.shields.io/badge/-TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6) | Plataforma de aprendizado de IA |
+| [**SMTP Microservice**](https://github.com/jucalast/smtp-microservice) | ![Python](https://img.shields.io/badge/-Python-0d1117?style=flat-square&logo=python&logoColor=3776AB) | Microservico de envio de emails |
+| [**Cartonagem Tracker**](https://github.com/jucalast/cartonagem-tracker) | ![TypeScript](https://img.shields.io/badge/-TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6) | Rastreamento de cartonagem |
+| [**Lets Coffee**](https://github.com/jucalast/letscoffeesite) | ![CSS](https://img.shields.io/badge/-CSS-0d1117?style=flat-square&logo=css3&logoColor=1572B6) | E-commerce da Lets Coffee |
 
-<div align="center">
-  <a href="https://github.com/jucalast/learnai">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=jucalast&repo=learnai&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e6edf3&icon_color=8b949e" />
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=jucalast&repo=learnai&hide_border=true" alt="LearnAI" />
-    </picture>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/jucalast/smtp-microservice">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=jucalast&repo=smtp-microservice&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e6edf3&icon_color=8b949e" />
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=jucalast&repo=smtp-microservice&hide_border=true" alt="SMTP Microservice" />
-    </picture>
-  </a>
 </div>
 
 <br/>
@@ -139,9 +119,6 @@ curiosidade: "Café é o compilador dos meus projetos"
     <img alt="github-snake" src="https://raw.githubusercontent.com/jucalast/jucalast/output/github-snake-dark.svg" width="100%" />
   </picture>
 </div>
-
-> **Nota:** Para ativar a Snake Animation, crie uma GitHub Action no repositorio `jucalast/jucalast`.
-> Veja as instrucoes na secao [Como configurar a Snake](#-como-configurar-a-snake-animation) abaixo.
 
 <br/>
 
@@ -158,16 +135,11 @@ curiosidade: "Café é o compilador dos meus projetos"
 
 <br/>
 
-<!-- DIVIDER -->
-<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" /></p>
+---
 
 ## Contato
 
 <div align="center">
-
-Se quiser trocar uma ideia, colaborar em algum projeto ou apenas dar um alo:
-
-<br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0d1117)](https://linkedin.com/in/jucalast)
 &nbsp;
@@ -175,13 +147,9 @@ Se quiser trocar uma ideia, colaborar em algum projeto ou apenas dar um alo:
 &nbsp;
 [![Discord](https://img.shields.io/badge/-Discord-0d1117?style=for-the-badge&logo=discord&logoColor=5865F2&labelColor=0d1117)](https://discord.com/users/SEU_ID)
 
-</div>
+<br/><br/>
 
-<br/>
-
-<div align="center">
-
-  <img src="https://komarev.com/ghpvc/?username=jucalast&style=for-the-badge&color=0d1117&label=PROFILE+VIEWS&labelColor=161b22" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=jucalast&style=for-the-badge&color=0d1117&label=PROFILE+VIEWS&labelColor=161b22" alt="Profile Views" />
 
 </div>
 
@@ -193,11 +161,39 @@ Se quiser trocar uma ideia, colaborar em algum projeto ou apenas dar um alo:
 ---
 
 <details>
-<summary>Como configurar a Snake Animation</summary>
+<summary>Como configurar as GitHub Actions</summary>
 
 <br/>
 
-1. No repositorio `jucalast/jucalast`, crie o arquivo `.github/workflows/snake.yml`:
+### 1. Profile Summary Cards (Stats & Languages)
+
+Crie `.github/workflows/profile-summary.yml` no repositorio `jucalast/jucalast`:
+
+```yaml
+name: GitHub Profile Summary Cards
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        with:
+          USERNAME: jucalast
+          BRANCH_NAME: main
+          THEME: github_dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+### 2. Snake Animation
+
+Crie `.github/workflows/snake.yml`:
 
 ```yaml
 name: Generate Snake
@@ -226,7 +222,9 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
 
-2. Va em **Settings > Actions > General** e habilite **Read and write permissions**.
-3. Execute o workflow manualmente na aba **Actions**.
+### 3. Permissoes
+
+Va em **Settings > Actions > General** e habilite **Read and write permissions**.
+Execute ambos os workflows manualmente na aba **Actions**.
 
 </details>
