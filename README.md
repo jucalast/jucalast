@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=200&section=header&text=Jo%C3%A3o%20Luccas&fontSize=42&fontColor=e6edf3&fontAlignY=35&animation=fadeIn&desc=Full%20Stack%20Developer&descSize=18&descColor=8b949e&descAlignY=55" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=200&section=header&text=Jo√£o%20Luccas&fontSize=42&fontColor=e6edf3&fontAlignY=35&animation=fadeIn&desc=Full%20Stack%20Developer&descSize=18&descColor=8b949e&descAlignY=55" />
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
@@ -30,7 +30,9 @@ hobbies:
   - Desenvolvimento Web
   - Automa√ß√£o
   - Open Source
-``Fcâ!ÄTecN Stack
+```
+
+## Tech Stack
 
 <div align="center">
 
